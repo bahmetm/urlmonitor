@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/urlmonitor/static/css/main.e6c13ad2.css",
+    "main.js": "/urlmonitor/static/js/main.b4e9043e.js",
+    "static/js/885.79de158c.chunk.js": "/urlmonitor/static/js/885.79de158c.chunk.js",
+    "static/media/keyboard.wav": "/urlmonitor/static/media/keyboard.dd683ac9de1126262ff9.wav",
+    "static/media/vintageKeyboard.wav": "/urlmonitor/static/media/vintageKeyboard.2a4d1d34628ca7590cca.wav",
+    "static/media/vintageKeyboard1.wav": "/urlmonitor/static/media/vintageKeyboard1.9030790892c62fe8ab9b.wav",
+    "index.html": "/urlmonitor/index.html",
+    "main.e6c13ad2.css.map": "/urlmonitor/static/css/main.e6c13ad2.css.map",
+    "main.b4e9043e.js.map": "/urlmonitor/static/js/main.b4e9043e.js.map",
+    "885.79de158c.chunk.js.map": "/urlmonitor/static/js/885.79de158c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b4e9043e.js"
+  ]
+}
